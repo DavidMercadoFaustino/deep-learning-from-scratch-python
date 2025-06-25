@@ -4,7 +4,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-FF0000?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![Capa do Livro Deep Learning from Scratch](https://learning.oreilly.com/library/cover/9781492041405/250w/)
+![Capa do Livro Deep Learning from Scratch](https://learning.oreilly.com/library/cover/9781492041405/500w/)
 
 
 ## Descrição Principal:
