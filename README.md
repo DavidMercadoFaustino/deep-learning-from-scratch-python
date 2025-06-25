@@ -7,11 +7,11 @@
 ![Capa do Livro Deep Learning from Scratch](https://learning.oreilly.com/library/cover/9781492041405/250w/)
 
 
-Descrição Principal:
+## Descrição Principal:
 
 Este repositório documenta e implementa os conceitos fundamentais de Deep Learning, construindo redes neurais inteiramente do zero utilizando apenas Python e NumPy. O conteúdo é baseado no livro 'Deep Learning from Scratch: Building with Python from First Principles' de Seth Weidman, e serve como um portfólio prático para demonstrar uma compreensão profunda dos algoritmos e princípios matemáticos subjacentes.
 
-O que este repositório demonstra:
+## O que este repositório demonstra:
 
 Fundamentos Matemáticos e Computacionais: Implementações passo a passo de funções, derivadas, Regra da Cadeia e operações matriciais para entender o "como" as redes neurais calculam e aprendem.
 Regressão Linear do Zero: Construção completa de um modelo de regressão linear, incluindo passe forward, passe backward (cálculo de gradientes) e otimização por Gradiente Descendente, aplicado a um dataset real de previsão de preços de imóveis (Kaggle House Prices).
